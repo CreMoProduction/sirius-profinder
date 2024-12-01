@@ -8,6 +8,7 @@
 
 This is an early stage developmennt code that uses R programming that incorporates an algorithm for comparing annotations similarities between the molecular feature extraction of identified compounds from compound prediction in [SIRIUS](https://bio.informatik.uni-jena.de/software/sirius/) software and molecular features obtained through untargeted feature extraction processing in [Agilent MassHunter ProFinder](https://www.agilent.com/cs/library/usermanuals/public/G3835-90027_Profinder_QuickStart.pdf).
 
+![alt text](https://github.com/CreMoProduction/sirius-profinder/blob/main/SIRIUS%202.svg)
 -----------
 
 # How to run?
